@@ -1,3 +1,3 @@
 let name = "Pokemon";
-let levelPokemon = 12
-console.log("Hello, " + name + " git addnível " + levelPokemon + "!");
+let levelPokemon = 15
+console.log("Hello, " + name + " nível " + levelPokemon + "!");
