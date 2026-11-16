@@ -1,8 +1,5 @@
 # Pokémon Rank Calculator
 
-![JavaScript](https://img.shields.io/badge/language-JavaScript-informational)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 A small JavaScript program that assigns a rank to a Pokémon based on its level, using the `switch(true)` pattern.
 
 ## Table of Contents
